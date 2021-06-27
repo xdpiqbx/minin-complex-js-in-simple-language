@@ -1,8 +1,8 @@
 const subject =
-  "Урок 3. JavaScript. Что такое замыкания. Как они работают (+ примеры)";
-//https://www.youtube.com/watch?v=pahO5XjnfLA&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT&index=3
+  "Урок 4. JavaScript. Асинхронность.Что такое Event Loop. JS SetTimeout 0";
+//https://youtu.be/vIZs5tH-HGQ?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
 const baseUrl = "https://youtu.be/";
-const queryString = "watch?v=pahO5XjnfLA";
+const queryString = "vIZs5tH-HGQ";
 const url = `${baseUrl}${queryString}`;
 console.log(`=====-> ${subject} <-=====`);
 console.log(`${url}`);
