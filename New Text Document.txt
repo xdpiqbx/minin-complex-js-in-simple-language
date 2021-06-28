@@ -1,7 +1,7 @@
 https://www.youtube.com/watch?v=aQkgUUmUJy4&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
 
 JavaScript ES6 - Полный курс за 2 часа [2020]
-https://www.youtube.com/watch?v=Ti2Q4sQkNdU&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=4
+https://www.youtube.com/watch?v=Ti2Q4sQkNdU
 
 Паттерны
 https://www.youtube.com/watch?v=YJVj4XNASDk
